@@ -1,3 +1,22 @@
+# UE4 Paths
+*Intermediate/*
+*Saved/*
+*Binaries/*
+*DerivedDataCache/*
+*.sln
+*.sdf
+*.suo
+*.ipch
+
+*.vc.db
+*.vc.db-wal
+*.vc.db-shm
+
+*Content/StarterContent/*
+
+
+
+
 # Prerequisites
 *.d
 
