@@ -1,8 +1,8 @@
 # UE4 Paths
-*Intermediate/*
-*Saved/*
-*Binaries/*
-*DerivedDataCache/*
+*/Intermediate/*
+*/Saved/*
+*/Binaries/*
+*/DerivedDataCache/*
 *.sln
 *.sdf
 *.suo
@@ -12,7 +12,7 @@
 *.vc.db-wal
 *.vc.db-shm
 
-*Content/StarterContent/*
+*/Content/StarterContent/*
 
 
 
