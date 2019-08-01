@@ -13,6 +13,9 @@
 *.vc.db-shm
 
 */Content/StarterContent/*
+*/Content/FantasyVillage/*
+*/Content/MultistoryDungeons/*
+*/Content/WaterMaterials/*
 
 
 
